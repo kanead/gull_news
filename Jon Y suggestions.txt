@@ -1,0 +1,3 @@
+offset(log(ndays) + log(n.newspapers))
+
+careful how 2015 effect is included 
